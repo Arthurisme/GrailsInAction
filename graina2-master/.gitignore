@@ -1,0 +1,6 @@
+activemq-data
+target
+*.log
+*.class
+.idea
+*Db.*.db
