@@ -9,7 +9,8 @@
 <html>
 <head>
     <title>QOTD &raquo; <g:layoutTitle/></title>
-    <g:external dir="css" file="snazzy.css"/>
+    %{--<g:external dir="css" file="snazzy.css"/>--}%
+    <asset:stylesheet href="snazzy.css"/>
     <g:layoutHead />
     <r:layoutResources />
 </head>
