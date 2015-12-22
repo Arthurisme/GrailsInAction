@@ -7,7 +7,7 @@ body {
 	display: block;
 	margin: .5em;
 	padding: .5em;
-	background: url(../images/background.png) repeat-x;
+	background: url(./images/background.png) repeat-x;
 	border: 1px dotted black;
 }
 #quote p   {
@@ -21,13 +21,13 @@ body {
 }
 
 #header {
- 	background: url(../images/logo_background.png) repeat-x;
+ 	background: url(./images/logo_background.png) repeat-x;
 }
 #header img {
 	padding: 1em;
 }
 #menu {
-	background: url(../images/menu_background.png) repeat-x;
+	background: url(./images/menu_background.png) repeat-x;
 	padding: 5px;	
 }
 #menu li {
