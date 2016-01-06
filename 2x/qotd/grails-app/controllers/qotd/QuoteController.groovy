@@ -4,7 +4,7 @@ package qotd
 class QuoteController {
     static scaffold = true
 
-    def index() { }
+//    def index() { }
 
     def home() {
         render "<h1>Real Programmers do not eat Quiche</h1>"
