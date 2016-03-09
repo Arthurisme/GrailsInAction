@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="qotd.QuoteServiceSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-03-09T00:53:58" hostname="Macintosh.local" time="1.468">
+  <properties/>
+  <testcase name="static quote service always returns quiche quote" classname="qotd.QuoteServiceSpec" time="1.468"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="qotd.QuoteControllerSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2016-03-09T00:53:01" hostname="Macintosh.local" time="1.837">
+  <properties/>
+  <testcase name="test something" classname="qotd.QuoteControllerSpec" time="1.837">
+    <failure message="Condition not satisfied:&#10;&#10;true == false&#10;     |&#10;     false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+true == false
+     |
+     false
+
+	at qotd.QuoteControllerSpec.test something(QuoteControllerSpec.groovy:20)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
