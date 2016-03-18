@@ -1,5 +1,5 @@
 Testsuite: qotd.QuoteServiceSpec
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.359 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.755 sec
 ------------- Standard Output ---------------
 --Output from static quote service always returns quiche quote--
 ------------- ---------------- ---------------
@@ -7,4 +7,4 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.359 sec
 --Output from static quote service always returns quiche quote--
 ------------- ---------------- ---------------
 
-Testcase: static quote service always returns quiche quote took 3.081 sec
+Testcase: static quote service always returns quiche quote took 0.744 sec

@@ -1,0 +1,10 @@
+Testsuite: qotd.QuoteAnalyzerSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.087 sec
+------------- Standard Output ---------------
+--Output from Total number of quotes--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Total number of quotes--
+------------- ---------------- ---------------
+
+Testcase: Total number of quotes took 1.711 sec

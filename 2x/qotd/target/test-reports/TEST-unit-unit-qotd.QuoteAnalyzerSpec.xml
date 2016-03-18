@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Macintosh.local" name="qotd.QuoteAnalyzerSpec" skipped="0" tests="1" time="2.087" timestamp="2016-03-18T00:59:15">
+  <properties />
+  <testcase classname="qotd.QuoteAnalyzerSpec" name="Total number of quotes" time="1.711" />
+  <system-out><![CDATA[--Output from Total number of quotes--
+]]></system-out>
+  <system-err><![CDATA[--Output from Total number of quotes--
+]]></system-err>
+</testsuite>

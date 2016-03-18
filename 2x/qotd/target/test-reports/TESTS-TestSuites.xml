@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="Macintosh.local" id="0" name="QuoteServiceSpec" package="qotd" skipped="0" tests="1" time="3.359" timestamp="2016-03-07T00:14:51">
+  <testsuite errors="0" failures="0" hostname="Macintosh.local" id="0" name="QuoteAnalyzerSpec" package="qotd" skipped="0" tests="1" time="2.087" timestamp="2016-03-18T00:59:15">
       <properties />
 
-      <testcase classname="qotd.QuoteServiceSpec" name="static quote service always returns quiche quote" time="3.081" />
+      <testcase classname="qotd.QuoteAnalyzerSpec" name="Total number of quotes" time="1.711" />
+
+      <system-out><![CDATA[--Output from Total number of quotes--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Total number of quotes--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Macintosh.local" id="1" name="QuoteServiceSpec" package="qotd" skipped="0" tests="1" time="0.755" timestamp="2016-03-18T00:59:18">
+      <properties />
+
+      <testcase classname="qotd.QuoteServiceSpec" name="static quote service always returns quiche quote" time="0.744" />
 
       <system-out><![CDATA[--Output from static quote service always returns quiche quote--
 ]]></system-out>

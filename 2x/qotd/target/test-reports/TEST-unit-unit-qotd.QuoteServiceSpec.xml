@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Macintosh.local" name="qotd.QuoteServiceSpec" skipped="0" tests="1" time="3.359" timestamp="2016-03-07T00:14:51">
+<testsuite errors="0" failures="0" hostname="Macintosh.local" name="qotd.QuoteServiceSpec" skipped="0" tests="1" time="0.755" timestamp="2016-03-18T00:59:18">
   <properties />
-  <testcase classname="qotd.QuoteServiceSpec" name="static quote service always returns quiche quote" time="3.081" />
+  <testcase classname="qotd.QuoteServiceSpec" name="static quote service always returns quiche quote" time="0.744" />
   <system-out><![CDATA[--Output from static quote service always returns quiche quote--
 ]]></system-out>
   <system-err><![CDATA[--Output from static quote service always returns quiche quote--
