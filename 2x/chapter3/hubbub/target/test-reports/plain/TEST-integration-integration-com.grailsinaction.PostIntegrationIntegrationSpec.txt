@@ -1,0 +1,13 @@
+Testsuite: com.grailsinaction.PostIntegrationIntegrationSpec
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.282 sec
+------------- Standard Output ---------------
+--Output from Adding posts to user links post to user--
+--Output from Exercise tagging several posts with various tags--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Adding posts to user links post to user--
+--Output from Exercise tagging several posts with various tags--
+------------- ---------------- ---------------
+
+Testcase: Adding posts to user links post to user took 0.221 sec
+Testcase: Exercise tagging several posts with various tags took 0.014 sec

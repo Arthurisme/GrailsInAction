@@ -1,0 +1,28 @@
+Testsuite: com.grailsinaction.UserIntegrationIntegrationSpec
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.132 sec
+------------- Standard Output ---------------
+--Output from Saving our first user to the database--
+--Output from Updating a saved user changes its properties--
+--Output from Deleting an existing user removes it from the database--
+--Output from Saving a user with invalid properties causes an error--
+--Output from Recovering from a failed save by fixing invalid properties--
+--Output from Ensure posts linked to a user can be retrieved--
+--Output from Ensure a user can follow other users--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Saving our first user to the database--
+--Output from Updating a saved user changes its properties--
+--Output from Deleting an existing user removes it from the database--
+--Output from Saving a user with invalid properties causes an error--
+--Output from Recovering from a failed save by fixing invalid properties--
+--Output from Ensure posts linked to a user can be retrieved--
+--Output from Ensure a user can follow other users--
+------------- ---------------- ---------------
+
+Testcase: Saving our first user to the database took 0.01 sec
+Testcase: Updating a saved user changes its properties took 0.011 sec
+Testcase: Deleting an existing user removes it from the database took 0.032 sec
+Testcase: Saving a user with invalid properties causes an error took 0.024 sec
+Testcase: Recovering from a failed save by fixing invalid properties took 0.01 sec
+Testcase: Ensure posts linked to a user can be retrieved took 0.031 sec
+Testcase: Ensure a user can follow other users took 0.013 sec
