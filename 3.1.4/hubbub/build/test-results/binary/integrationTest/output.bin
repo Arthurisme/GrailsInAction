@@ -1,0 +1,3 @@
+¥ERROR org.grails.orm.hibernate.cfg.HibernateMappingBuilder - ORM Mapping Invalid: Specified config option [tags] does not exist for class [com.grailsinaction.User]!
+¦ERROR org.grails.orm.hibernate.cfg.HibernateMappingBuilder - ORM Mapping Invalid: Specified config option [posts] does not exist for class [com.grailsinaction.User]!
+IGrails application running at http://localhost:9073 in environment: test

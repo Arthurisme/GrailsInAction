@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grailsinaction.PostIntegrationSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-03-27T02:07:46" hostname="Macintosh.local" time="8.035">
+  <properties/>
+  <testcase name="test something" classname="com.grailsinaction.PostIntegrationSpec" time="7.843"/>
+  <testcase name="Adding posts to user links post to user" classname="com.grailsinaction.PostIntegrationSpec" time="0.167"/>
+  <testcase name="Exercise tagging several posts with various tags" classname="com.grailsinaction.PostIntegrationSpec" time="0.024"/>
+  <system-out><![CDATA[ERROR org.grails.orm.hibernate.cfg.HibernateMappingBuilder - ORM Mapping Invalid: Specified config option [tags] does not exist for class [com.grailsinaction.User]!
+ERROR org.grails.orm.hibernate.cfg.HibernateMappingBuilder - ORM Mapping Invalid: Specified config option [posts] does not exist for class [com.grailsinaction.User]!
+Grails application running at http://localhost:9073 in environment: test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

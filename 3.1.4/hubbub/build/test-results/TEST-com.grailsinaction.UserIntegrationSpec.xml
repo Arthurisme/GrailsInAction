@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grailsinaction.UserIntegrationSpec" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-03-27T02:07:54" hostname="Macintosh.local" time="0.205">
+  <properties/>
+  <testcase name="test something" classname="com.grailsinaction.UserIntegrationSpec" time="0.012"/>
+  <testcase name="Saving our first user to the database" classname="com.grailsinaction.UserIntegrationSpec" time="0.009"/>
+  <testcase name="Updating a saved user changes its properties" classname="com.grailsinaction.UserIntegrationSpec" time="0.01"/>
+  <testcase name="Deleting an existing user removes it from the database" classname="com.grailsinaction.UserIntegrationSpec" time="0.026"/>
+  <testcase name="Saving a user with invalid properties causes an error" classname="com.grailsinaction.UserIntegrationSpec" time="0.113"/>
+  <testcase name="Recovering from a failed save by fixing invalid properties" classname="com.grailsinaction.UserIntegrationSpec" time="0.01"/>
+  <testcase name="Ensure posts linked to a user can be retrieved" classname="com.grailsinaction.UserIntegrationSpec" time="0.011"/>
+  <testcase name="Ensure a user can follow other users" classname="com.grailsinaction.UserIntegrationSpec" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
